@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "291757392615",
+    "firebase_url": "https://fire-guard-ba9b3-default-rtdb.firebaseio.com",
+    "project_id": "fire-guard-ba9b3",
+    "storage_bucket": "fire-guard-ba9b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291757392615:android:2135129be9089cd5a1d842",
+        "android_client_info": {
+          "package_name": "com.fireguard.fire_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQY-LJaHkP9ira-l8FE748ZpFeLBxYkPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
