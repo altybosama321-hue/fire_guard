@@ -41,7 +41,10 @@
 
 ---
 
-## 📥 تنزيل ملف الـ APK
-يمكنك تحميل أحدث نسخة جاهزة للتثبيت مباشرة على الهواتف من خلال الرابط التالي:
+## 📥 تنزيل التطبيق بحجم مضغوط ومناسب (Small Size APK)
 
-👉 **[تحميل ملف FireGuard APK (Release)](https://github.com/altybosama321-hue/fire_guard/releases/download/v1.0.0/app-release.apk)**
+تم ضغط وتقليل حجم التطبيق من 46 ميجابايت إلى **17.3 ميجابايت فقط**:
+
+- 📱 **[تحميل ملف APK المباشر (17.3MB)](https://github.com/altybosama321-hue/fire_guard/releases/download/v1.0.1/app-arm64-v8a-release.apk)**
+- 📦 **[تحميل الملف المضغوط ZIP](https://github.com/altybosama321-hue/fire_guard/releases/download/v1.0.1/FireGuard_v1.0.1_ARM64.zip)**
+
